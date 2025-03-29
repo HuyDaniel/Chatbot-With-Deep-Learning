@@ -1,2 +1,2 @@
 # Chatbot-With-Deep-Learning
-" Hiện tại file  "
+# Hiện tại file chatbotfilebackupPhoBERT, Appbackup, augment_data, chatbot_intents_vi_augmented - file được tạo ra từ file augment_data, nên bỏ trong 1 môi trường ảo riêng để chạy riêng biệt. Do Mô hình có tới 135 triệu tham số nên xử lý rất lâu. Do code chỉ đang chạy tối ưu bằng torch CPU, chưa thiết lập torch dành cho GPU nên chạy siêu chậm. Dẫn đến lag máy nếu CPU yếu. Nên tích hợp CUDA toolkit thì sẽ chạy nhanh hơn và tốc độ xử lý tối ưu hơn. Vì là chạy bằng GPU nên cần cài đặt thêm 1 thư viện chuẩn của torch-gpu (check bằng msi-nvidia)
