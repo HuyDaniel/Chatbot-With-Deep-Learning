@@ -1,0 +1,240 @@
+{
+    "intents": [
+        {
+            "tag": "chao_hoi",
+            "patterns": [
+                "Xin chào", "Chào bạn", "Hello", "Chào buổi sáng", "Bạn khỏe không",
+                "Chào buổi chiều", "Chào buổi tối", "Chào nhé", "Hi bạn", "Chào mọi người",
+                "Chào anh", "Chào chị", "Chào em", "Chào cô", "Chào chú",
+                "Chào bạn ơi", "Chào bạn nhé", "Chào buổi trưa", "Chào buổi đêm", "Chào nha",
+                "Chào bạn có khỏe không", "Chào bạn lâu rồi không gặp", "Chào bạn hôm nay thế nào",
+                "Chào bạn mình mới gặp", "Chào bạn mình là người mới", "Chào bạn mình cần giúp đỡ",
+                "Chào bạn mình muốn hỏi", "Chào bạn mình muốn trò chuyện", "Chào bạn mình đang buồn",
+                "Chào bạn mình đang vui", "Chào bạn mình đang bận", "Chào bạn mình rảnh đây",
+                "Chào bạn mình thích trò chuyện", "Chào bạn mình muốn biết thêm", "Chào bạn mình cần thông tin"
+            ],
+            "responses": [
+                "Xin chào!", "Chào bạn!", "Rất vui được gặp bạn!", "Chào bạn, tôi có thể giúp gì cho bạn?",
+                "Chào bạn, hôm nay bạn thế nào?", "Chào bạn, mình ở đây để giúp bạn!", "Chào bạn, bạn cần gì nào?"
+            ]
+        },
+        {
+            "tag": "tam_biet",
+            "patterns": [
+                "Tạm biệt", "Hẹn gặp lại", "Chào tạm biệt", "Gặp lại sau",
+                "Bye bye", "Tạm biệt nhé", "Tạm biệt bạn", "Hẹn gặp bạn sau", "Chào nhé mình đi đây",
+                "Tạm biệt nha", "Tạm biệt mọi người", "Tạm biệt anh", "Tạm biệt chị", "Tạm biệt em",
+                "Tạm biệt cô", "Tạm biệt chú", "Tạm biệt bạn ơi", "Tạm biệt bạn nhé", "Tạm biệt buổi tối",
+                "Tạm biệt buổi sáng", "Tạm biệt buổi chiều", "Tạm biệt buổi trưa", "Tạm biệt mình đi đây",
+                "Tạm biệt mình bận rồi", "Tạm biệt mình phải đi", "Tạm biệt mình sẽ quay lại",
+                "Tạm biệt mình đi công việc", "Tạm biệt mình đi học", "Tạm biệt mình đi làm",
+                "Tạm biệt mình đi ăn", "Tạm biệt mình đi ngủ", "Tạm biệt mình đi chơi",
+                "Tạm biệt mình đi tập gym", "Tạm biệt mình đi xem phim", "Tạm biệt mình đi du lịch"
+            ],
+            "responses": [
+                "Tạm biệt bạn!", "Hẹn gặp lại!", "Chúc bạn một ngày tốt lành!",
+                "Tạm biệt, giữ sức khỏe nhé!", "Tạm biệt, mong gặp lại bạn sớm!", "Tạm biệt, chúc bạn vui vẻ!"
+            ]
+        },
+        {
+            "tag": "cam_on",
+            "patterns": [
+                "Cảm ơn", "Cảm ơn bạn", "Thật hữu ích",
+                "Cảm ơn nhiều", "Cảm ơn nhé", "Cảm ơn bạn nhiều lắm", "Cảm ơn bạn đã giúp",
+                "Cảm ơn bạn rất nhiều", "Cảm ơn bạn nha", "Cảm ơn bạn ơi", "Cảm ơn bạn đã hỗ trợ",
+                "Cảm ơn bạn đã trả lời", "Cảm ơn bạn đã giải thích", "Cảm ơn bạn đã hướng dẫn",
+                "Cảm ơn bạn đã chia sẻ", "Cảm ơn bạn đã thông tin", "Cảm ơn bạn đã tư vấn",
+                "Cảm ơn bạn đã hỗ trợ mình", "Cảm ơn bạn đã giúp mình", "Cảm ơn bạn đã giải đáp",
+                "Cảm ơn bạn đã cho mình biết", "Cảm ơn bạn đã làm rõ", "Cảm ơn bạn đã chỉ dẫn",
+                "Cảm ơn bạn đã giúp mình hiểu", "Cảm ơn bạn đã giúp mình giải quyết", "Cảm ơn bạn đã giúp mình xong",
+                "Cảm ơn bạn đã giúp mình nhanh", "Cảm ơn bạn đã giúp mình kịp thời", "Cảm ơn bạn đã giúp mình hôm nay",
+                "Cảm ơn bạn đã giúp mình lần này", "Cảm ơn bạn đã giúp mình lần nữa", "Cảm ơn bạn đã giúp mình nhiều lần",
+                "Cảm ơn bạn đã giúp mình rất nhiều", "Cảm ơn bạn đã giúp mình không ít", "Cảm ơn bạn đã giúp mình quá trời"
+            ],
+            "responses": [
+                "Không có gì!", "Rất vui được giúp bạn!", "Không có chi!",
+                "Cảm ơn bạn đã tin tưởng mình!", "Không có gì, mình luôn sẵn sàng!", "Rất vui khi giúp được bạn!"
+            ]
+        },
+        {
+            "tag": "gioi_thieu",
+            "patterns": [
+                "Bạn là ai?", "Bạn là gì?", "Cho tôi biết về bạn",
+                "Bạn tên gì?", "Bạn làm gì?", "Bạn là ai vậy?", "Bạn là người hay máy?",
+                "Bạn là robot à?", "Bạn là AI à?", "Bạn là chatbot à?", "Bạn được tạo ra bởi ai?",
+                "Bạn được tạo ra khi nào?", "Bạn được tạo ra để làm gì?", "Bạn có thể làm gì cho tôi?",
+                "Bạn có chức năng gì?", "Bạn có khả năng gì?", "Bạn có thể giúp tôi những gì?",
+                "Bạn có thể làm gì cho tôi hôm nay?", "Bạn có thể làm gì cho tôi bây giờ?",
+                "Bạn có thể làm gì cho tôi lúc này?", "Bạn có thể làm gì cho tôi ngày mai?",
+                "Bạn có thể làm gì cho tôi trong tương lai?", "Bạn có thể làm gì cho tôi trong hiện tại?",
+                "Bạn có thể làm gì cho tôi trong quá khứ?", "Bạn có thể làm gì cho tôi trong mọi trường hợp?",
+                "Bạn có thể làm gì cho tôi khi tôi buồn?", "Bạn có thể làm gì cho tôi khi tôi vui?",
+                "Bạn có thể làm gì cho tôi khi tôi bận?", "Bạn có thể làm gì cho tôi khi tôi rảnh?",
+                "Bạn có thể làm gì cho tôi khi tôi cần giúp?", "Bạn có thể làm gì cho tôi khi tôi cần thông tin?",
+                "Bạn có thể làm gì cho tôi khi tôi cần tư vấn?", "Bạn có thể làm gì cho tôi khi tôi cần giải đáp?",
+                "Bạn có thể làm gì cho tôi khi tôi cần trò chuyện?", "Bạn có thể làm gì cho tôi khi tôi cần giải trí?"
+            ],
+            "responses": [
+                "Tôi là chatbot học sâu!", "Tôi là trợ lý AI của bạn, được hỗ trợ bởi deep learning.",
+                "Tôi là chatbot được tạo ra để giúp bạn!", "Tôi là trợ lý ảo, rất vui được gặp bạn!",
+                "Tôi là chatbot thông minh, có thể giúp bạn nhiều việc!", "Tôi là AI được thiết kế để hỗ trợ bạn!"
+            ]
+        },
+        {
+            "tag": "tro_giup",
+            "patterns": [
+                "Giúp đỡ", "Tôi cần giúp đỡ", "Bạn có thể giúp tôi không?", "Bạn có thể làm gì?",
+                "Hỗ trợ tôi", "Giúp tôi với", "Tôi cần hỗ trợ", "Bạn giúp tôi được không?",
+                "Bạn có thể hỗ trợ tôi không?", "Bạn có thể giúp tôi một chút không?",
+                "Bạn có thể giúp tôi ngay bây giờ không?", "Bạn có thể giúp tôi hôm nay không?",
+                "Bạn có thể giúp tôi lúc này không?", "Bạn có thể giúp tôi nhanh không?",
+                "Bạn có thể giúp tôi gấp không?", "Bạn có thể giúp tôi một việc không?",
+                "Bạn có thể giúp tôi một vấn đề không?", "Bạn có thể giúp tôi một câu hỏi không?",
+                "Bạn có thể giúp tôi một thắc mắc không?", "Bạn có thể giúp tôi một thông tin không?",
+                "Bạn có thể giúp tôi một lời khuyên không?", "Bạn có thể giúp tôi một ý kiến không?",
+                "Bạn có thể giúp tôi một giải pháp không?", "Bạn có thể giúp tôi một cách không?",
+                "Bạn có thể giúp tôi một hướng dẫn không?", "Bạn có thể giúp tôi một chỉ dẫn không?",
+                "Bạn có thể giúp tôi một gợi ý không?", "Bạn có thể giúp tôi một mẹo không?",
+                "Bạn có thể giúp tôi một kinh nghiệm không?", "Bạn có thể giúp tôi một bài học không?",
+                "Bạn có thể giúp tôi một thông tin quan trọng không?", "Bạn có thể giúp tôi một thông tin cần thiết không?",
+                "Bạn có thể giúp tôi một thông tin hữu ích không?", "Bạn có thể giúp tôi một thông tin thú vị không?",
+                "Bạn có thể giúp tôi một thông tin mới không?"
+            ],
+            "responses": [
+                "Tôi có thể trả lời câu hỏi, trò chuyện và học những điều mới!",
+                "Tất nhiên rồi, tôi có thể giúp bạn! Bạn cần gì?",
+                "Tôi ở đây để hỗ trợ bạn, bạn cần giúp gì nào?",
+                "Rất sẵn lòng giúp bạn, bạn muốn tôi làm gì?"
+            ]
+        },
+        {
+            "tag": "hoi_gio",
+            "patterns": [
+                "Bây giờ là mấy giờ?", "Mấy giờ rồi?", "Cho tôi biết giờ hiện tại", "Hôm nay là ngày bao nhiêu?",
+                "Hiện tại là mấy giờ?", "Giờ này là mấy giờ?", "Cho tôi biết thời gian", "Thời gian bây giờ là gì?",
+                "Mấy giờ hiện tại?", "Mấy giờ bây giờ?", "Mấy giờ rồi nhỉ?", "Mấy giờ rồi bạn ơi?",
+                "Mấy giờ rồi bạn nhé?", "Mấy giờ rồi bạn biết không?", "Mấy giờ rồi bạn có biết không?",
+                "Mấy giờ rồi bạn giúp mình xem?", "Mấy giờ rồi bạn kiểm tra giúp mình?",
+                "Mấy giờ rồi bạn xem giúp mình?", "Mấy giờ rồi bạn cho mình biết?",
+                "Mấy giờ rồi bạn nói cho mình nghe?", "Mấy giờ rồi bạn báo cho mình?",
+                "Mấy giờ rồi bạn thông báo cho mình?", "Mấy giờ rồi bạn cập nhật cho mình?",
+                "Mấy giờ rồi bạn nhắc mình với?", "Mấy giờ rồi bạn nhắc mình nhé?",
+                "Hôm nay là ngày gì?", "Hôm nay ngày bao nhiêu?", "Hôm nay là ngày mấy?",
+                "Hôm nay là ngày nào?", "Hôm nay là ngày gì bạn ơi?", "Hôm nay là ngày gì bạn nhé?",
+                "Hôm nay là ngày gì bạn biết không?", "Hôm nay là ngày gì bạn có biết không?",
+                "Hôm nay là ngày gì bạn giúp mình xem?", "Hôm nay là ngày gì bạn kiểm tra giúp mình?"
+            ],
+            "responses": [
+                "Để tôi kiểm tra... Bây giờ là {time} ngày {date}.",
+                "Hiện tại là {time} ngày {date}.",
+                "Thời gian bây giờ là {time} ngày {date}.",
+                "Bây giờ là {time}, hôm nay là ngày {date}."
+            ]
+        },
+        {
+            "tag": "hoi_ngay_mai",
+            "patterns": [
+                "Ngày mai là ngày bao nhiêu?", "Ngày mai là ngày gì?", "Cho tôi biết ngày mai", "Ngày mai là thứ mấy?",
+                "Ngày mai là ngày nào?", "Ngày mai là ngày mấy?", "Ngày mai là thứ gì?", "Ngày mai là thứ bao nhiêu?",
+                "Ngày mai là ngày gì bạn ơi?", "Ngày mai là ngày gì bạn nhé?", "Ngày mai là ngày gì bạn biết không?",
+                "Ngày mai là ngày gì bạn có biết không?", "Ngày mai là ngày gì bạn giúp mình xem?",
+                "Ngày mai là ngày gì bạn kiểm tra giúp mình?", "Ngày mai là ngày gì bạn xem giúp mình?",
+                "Ngày mai là ngày gì bạn cho mình biết?", "Ngày mai là ngày gì bạn nói cho mình nghe?",
+                "Ngày mai là ngày gì bạn báo cho mình?", "Ngày mai là ngày gì bạn thông báo cho mình?",
+                "Ngày mai là ngày gì bạn cập nhật cho mình?", "Ngày mai là ngày gì bạn nhắc mình với?",
+                "Ngày mai là ngày gì bạn nhắc mình nhé?", "Ngày mai là thứ mấy bạn ơi?",
+                "Ngày mai là thứ mấy bạn nhé?", "Ngày mai là thứ mấy bạn biết không?",
+                "Ngày mai là thứ mấy bạn có biết không?", "Ngày mai là thứ mấy bạn giúp mình xem?",
+                "Ngày mai là thứ mấy bạn kiểm tra giúp mình?", "Ngày mai là thứ mấy bạn xem giúp mình?",
+                "Ngày mai là thứ mấy bạn cho mình biết?", "Ngày mai là thứ mấy bạn nói cho mình nghe?",
+                "Ngày mai là thứ mấy bạn báo cho mình?", "Ngày mai là thứ mấy bạn thông báo cho mình?",
+                "Ngày mai là thứ mấy bạn cập nhật cho mình?", "Ngày mai là thứ mấy bạn nhắc mình với?"
+            ],
+            "responses": [
+                "Để tôi kiểm tra ngày mai cho bạn.",
+                "Ngày mai là {tomorrow}.",
+                "Ngày mai sẽ là {tomorrow}, bạn nhé!"
+            ]
+        },
+        {
+            "tag": "thoi_tiet",
+            "patterns": [
+                "Thời tiết hôm nay thế nào?", "Trời có mưa không?", "Thời tiết ở TP.HCM ra sao?", "Báo nhiệt độ", "Báo gió và áp suất",
+                "Thời tiết hôm nay ở Hà Nội thế nào?", "Thời tiết hôm nay ở Đà Nẵng ra sao?", "Thời tiết hôm nay ở Huế thế nào?",
+                "Thời tiết hôm nay ở Sài Gòn thế nào?", "Thời tiết hôm nay ở Cần Thơ ra sao?", "Thời tiết hôm nay ở Nha Trang thế nào?",
+                "Thời tiết hôm nay ở Đà Lạt thế nào?", "Thời tiết hôm nay ở Hải Phòng ra sao?", "Thời tiết hôm nay ở Quảng Ninh thế nào?",
+                "Thời tiết hôm nay ở Vinh ra sao?", "Thời tiết hôm nay ở Buôn Ma Thuột thế nào?", "Thời tiết hôm nay ở Pleiku ra sao?",
+                "Thời tiết hôm nay ở Quy Nhơn thế nào?", "Thời tiết hôm nay ở Đồng Hới ra sao?", "Thời tiết hôm nay ở Thanh Hóa thế nào?",
+                "Thời tiết hôm nay ở Sapa thế nào?", "Thời tiết hôm nay ở Phú Quốc ra sao?", "Thời tiết hôm nay ở Côn Đảo thế nào?",
+                "Thời tiết hôm nay ở Vũng Tàu ra sao?", "Thời tiết hôm nay ở Long An thế nào?", "Thời tiết hôm nay ở Tiền Giang ra sao?",
+                "Thời tiết hôm nay ở Bến Tre thế nào?", "Thời tiết hôm nay ở Trà Vinh ra sao?", "Thời tiết hôm nay ở Vĩnh Long thế nào?",
+                "Thời tiết hôm nay ở Đồng Tháp ra sao?", "Thời tiết hôm nay ở An Giang thế nào?", "Thời tiết hôm nay ở Kiên Giang ra sao?",
+                "Thời tiết hôm nay ở Hậu Giang thế nào?", "Thời tiết hôm nay ở Sóc Trăng ra sao?", "Thời tiết hôm nay ở Bạc Liêu thế nào?",
+                "Thời tiết hôm nay ở Cà Mau ra sao?", "Thời tiết hôm nay ở Tây Ninh thế nào?", "Thời tiết hôm nay ở Bình Phước ra sao?",
+                "Thời tiết hôm nay ở Bình Dương thế nào?", "Thời tiết hôm nay ở Đồng Nai ra sao?", "Thời tiết hôm nay ở Bà Rịa Vũng Tàu thế nào?",
+                "Thời tiết hôm nay ở Lâm Đồng ra sao?", "Thời tiết hôm nay ở Đắk Lắk thế nào?", "Thời tiết hôm nay ở Đắk Nông ra sao?",
+                "Thời tiết hôm nay ở Gia Lai thế nào?", "Thời tiết hôm nay ở Kon Tum ra sao?", "Thời tiết hôm nay ở Quảng Nam thế nào?",
+                "Thời tiết hôm nay ở Quảng Ngãi ra sao?", "Thời tiết hôm nay ở Bình Định thế nào?", "Thời tiết hôm nay ở Phú Yên thế nào?",
+                "Thời tiết hôm nay ở Khánh Hòa ra sao?", "Thời tiết hôm nay ở Ninh Thuận thế nào?", "Thời tiết hôm nay ở Bình Thuận thế nào?",
+                "Thời tiết hôm nay ở Quảng Trị ra sao?", "Thời tiết hôm nay ở Quảng Bình thế nào?", "Thời tiết hôm nay ở Hà Tĩnh thế nào?",
+                "Thời tiết hôm nay ở Nghệ An ra sao?", "Thời tiết hôm nay ở Sơn La thế nào?", "Thời tiết hôm nay ở Điện Biên ra sao?",
+                "Thời tiết hôm nay ở Lai Châu thế nào?", "Thời tiết hôm nay ở Lào Cai thế nào?", "Thời tiết hôm nay ở Yên Bái thế nào?",
+                "Thời tiết hôm nay ở Tuyên Quang thế nào?", "Thời tiết hôm nay ở Hà Giang thế nào?", "Thời tiết hôm nay ở Cao Bằng thế nào?",
+                "Thời tiết hôm nay ở Bắc Kạn thế nào?", "Thời tiết hôm nay ở Lạng Sơn thế nào?", "Thời tiết hôm nay ở Bắc Giang thế nào?",
+                "Thời tiết hôm nay ở Bắc Ninh thế nào?", "Thời tiết hôm nay ở Hưng Yên thế nào?", "Thời tiết hôm nay ở Hải Dương thế nào?",
+                "Thời tiết hôm nay ở Thái Bình thế nào?", "Thời tiết hôm nay ở Nam Định thế nào?", "Thời tiết hôm nay ở Ninh Bình thế nào?",
+                "Thời tiết hôm nay ở Hòa Bình thế nào?", "Thời tiết hôm nay ở Hà Nam thế nào?", "Thời tiết hôm nay ở Thái Nguyên thế nào?",
+                "Thời tiết hôm nay ở Phú Thọ thế nào?", "Thời tiết hôm nay ở Vĩnh Phúc thế nào?", "Thời tiết hôm nay ở Bắc Giang thế nào?",
+                "Hôm nay trời có nắng không?", "Hôm nay trời có lạnh không?", "Hôm nay trời có nóng không?",
+                "Hôm nay trời có đẹp không?", "Hôm nay trời có xấu không?", "Hôm nay trời có dễ chịu không?",
+                "Hôm nay nhiệt độ bao nhiêu?", "Hôm nay nhiệt độ thế nào?", "Hôm nay nhiệt độ ở Sài Gòn bao nhiêu?",
+                "Hôm nay nhiệt độ ở Hà Nội thế nào?", "Hôm nay gió mạnh không?", "Hôm nay áp suất thế nào?",
+                "Hôm nay độ ẩm bao nhiêu?", "Hôm nay có mưa lớn không?", "Hôm nay có mưa nhỏ không?",
+                "Hôm nay có sương mù không?", "Hôm nay có giông không?", "Hôm nay có bão không?"
+            ],
+            "responses": [
+                "Để tôi kiểm tra thời tiết cho bạn..."
+            ]
+        },
+        {
+            "tag": "thoi_tiet_ngay_mai",
+            "patterns": [
+                "Thời tiết ngày mai thế nào?", "Ngày mai trời có mưa không?", "Thời tiết ngày mai ở TP.HCM ra sao?",
+                "Thời tiết ngày mai ở Hà Nội thế nào?", "Thời tiết ngày mai ở Đà Nẵng ra sao?", "Thời tiết ngày mai ở Huế thế nào?",
+                "Thời tiết ngày mai ở Sài Gòn thế nào?", "Thời tiết ngày mai ở Cần Thơ ra sao?", "Thời tiết ngày mai ở Nha Trang thế nào?",
+                "Thời tiết ngày mai ở Đà Lạt thế nào?", "Thời tiết ngày mai ở Hải Phòng ra sao?", "Thời tiết ngày mai ở Quảng Ninh thế nào?",
+                "Thời tiết ngày mai ở Vinh ra sao?", "Thời tiết ngày mai ở Buôn Ma Thuột thế nào?", "Thời tiết ngày mai ở Pleiku ra sao?",
+                "Thời tiết ngày mai ở Quy Nhơn thế nào?", "Thời tiết ngày mai ở Đồng Hới ra sao?", "Thời tiết ngày mai ở Thanh Hóa thế nào?",
+                "Thời tiết ngày mai ở Sapa thế nào?", "Thời tiết ngày mai ở Phú Quốc ra sao?", "Thời tiết ngày mai ở Côn Đảo thế nào?",
+                "Thời tiết ngày mai ở Vũng Tàu ra sao?", "Thời tiết ngày mai ở Long An thế nào?", "Thời tiết ngày mai ở Tiền Giang ra sao?",
+                "Thời tiết ngày mai ở Bến Tre thế nào?", "Thời tiết ngày mai ở Trà Vinh ra sao?", "Thời tiết ngày mai ở Vĩnh Long thế nào?",
+                "Thời tiết ngày mai ở Đồng Tháp ra sao?", "Thời tiết ngày mai ở An Giang thế nào?", "Thời tiết ngày mai ở Kiên Giang ra sao?",
+                "Thời tiết ngày mai ở Hậu Giang thế nào?", "Thời tiết ngày mai ở Sóc Trăng ra sao?", "Thời tiết ngày mai ở Bạc Liêu thế nào?",
+                "Thời tiết ngày mai ở Cà Mau ra sao?", "Thời tiết ngày mai ở Tây Ninh thế nào?", "Thời tiết ngày mai ở Bình Phước ra sao?",
+                "Thời tiết ngày mai ở Bình Dương thế nào?", "Thời tiết ngày mai ở Đồng Nai ra sao?", "Thời tiết ngày mai ở Bà Rịa Vũng Tàu thế nào?",
+                "Thời tiết ngày mai ở Lâm Đồng ra sao?", "Thời tiết ngày mai ở Đắk Lắk thế nào?", "Thời tiết ngày mai ở Đắk Nông ra sao?",
+                "Thời tiết ngày mai ở Gia Lai thế nào?", "Thời tiết ngày mai ở Kon Tum ra sao?", "Thời tiết ngày mai ở Quảng Nam thế nào?",
+                "Thời tiết ngày mai ở Quảng Ngãi ra sao?", "Thời tiết ngày mai ở Bình Định thế nào?", "Thời tiết ngày mai ở Phú Yên thế nào?",
+                "Thời tiết ngày mai ở Khánh Hòa ra sao?", "Thời tiết ngày mai ở Ninh Thuận thế nào?", "Thời tiết ngày mai ở Bình Thuận thế nào?",
+                "Thời tiết ngày mai ở Quảng Trị ra sao?", "Thời tiết ngày mai ở Quảng Bình thế nào?", "Thời tiết ngày mai ở Hà Tĩnh thế nào?",
+                "Thời tiết ngày mai ở Nghệ An ra sao?", "Thời tiết ngày mai ở Sơn La thế nào?", "Thời tiết ngày mai ở Điện Biên ra sao?",
+                "Thời tiết ngày mai ở Lai Châu thế nào?", "Thời tiết ngày mai ở Lào Cai thế nào?", "Thời tiết ngày mai ở Yên Bái thế nào?",
+                "Thời tiết ngày mai ở Tuyên Quang thế nào?", "Thời tiết ngày mai ở Hà Giang thế nào?", "Thời tiết ngày mai ở Cao Bằng thế nào?",
+                "Thời tiết ngày mai ở Bắc Kạn thế nào?", "Thời tiết ngày mai ở Lạng Sơn thế nào?", "Thời tiết ngày mai ở Bắc Giang thế nào?",
+                "Thời tiết ngày mai ở Bắc Ninh thế nào?", "Thời tiết ngày mai ở Hưng Yên thế nào?", "Thời tiết ngày mai ở Hải Dương thế nào?",
+                "Thời tiết ngày mai ở Thái Bình thế nào?", "Thời tiết ngày mai ở Nam Định thế nào?", "Thời tiết ngày mai ở Ninh Bình thế nào?",
+                "Thời tiết ngày mai ở Hòa Bình ra sao?", "Thời tiết ngày mai ở Hà Nam thế nào?", "Thời tiết ngày mai ở Thái Nguyên thế nào?",
+                "Thời tiết ngày mai ở Phú Thọ thế nào?", "Thời tiết ngày mai ở Vĩnh Phúc thế nào?", "Thời tiết ngày mai ở Bắc Giang thế nào?",
+                "Ngày mai trời có nắng không?", "Ngày mai trời có lạnh không?", "Ngày mai trời có nóng không?",
+                "Ngày mai trời có đẹp không?", "Ngày mai trời có xấu không?", "Ngày mai trời có dễ chịu không?",
+                "Ngày mai nhiệt độ bao nhiêu?", "Ngày mai nhiệt độ thế nào?", "Ngày mai nhiệt độ ở Sài Gòn bao nhiêu?",
+                "Ngày mai nhiệt độ ở Hà Nội thế nào?", "Ngày mai gió mạnh không?", "Ngày mai áp suất thế nào?",
+                "Ngày mai độ ẩm bao nhiêu?", "Ngày mai có mưa lớn không?", "Ngày mai có mưa nhỏ không?",
+                "Ngày mai có sương mù không?", "Ngày mai có giông không?", "Ngày mai có bão không?"
+            ],
+            "responses": [
+                "Để tôi kiểm tra dự báo thời tiết ngày mai cho bạn..."
+            ]
+        }
+    ]
+}
